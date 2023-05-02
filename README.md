@@ -48,17 +48,14 @@
  - 具有认真求索、一丝不苟的精神，严格要求自己编写规范性的代码，有效提高了debug效率。
  
 ## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
 
-  - [STU](https://github.com/qinggee/itwanger.github.io)：项目的简要说明，Star和Fork数多的可以注明
-  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+  - 
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
-- [零基础 Java 自学指南(翻译文章)](https://blog.csdn.net/qing_gee/article/details/104774776) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+ - 
 
 ---      
 # 致谢
+
 感谢您花时间阅读我的简历，期待能有机会和您共事。
